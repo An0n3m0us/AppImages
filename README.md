@@ -9,6 +9,7 @@ Tested on fresh installations from the oldest release it works on to the newest 
 
 ## List of AppImages
 
+· Audacity (2.3.3)\
 · OpenTTD (1.9.3 & 1.10.0)
 
 ## Running AppImages
