@@ -13,6 +13,8 @@ Download the AppImages from the releases page
 
 · Audacity (2.3.3)
 
+· Blender (2.79 & 2.80)
+
 · OpenTTD (1.9.3 & 1.10.0)
 
 ## Running AppImages
