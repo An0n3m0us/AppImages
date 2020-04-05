@@ -9,12 +9,15 @@ Tested on fresh installations from the oldest release it works on to the newest 
 
 ## List of AppImages
 
-· Audacity (2.3.3)\
+Download the AppImages from the releases page
+
+· Audacity (2.3.3)
+
 · OpenTTD (1.9.3 & 1.10.0)
 
 ## Running AppImages
 
-Download the AppImage then make the AppImage an executable by entering `chmod +x $FILE` in a terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox.
+Make the AppImage an executable by entering `chmod +x $FILE` in a terminal or by right-clicking the file then selecting "Properties" then "Permissions", and checking the executable checkbox.
 Then, double-click the AppImage to run it.
 
 Please let me know if you encounter any errors! Report them on the issues page.
